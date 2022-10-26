@@ -1,0 +1,11 @@
+Using Simple Boolean Expressions A boolean 
+expression is a Java expression that, when evaluated, returns a Boolean value: true
+or false.
+Using if Statements
+Nested if statements
+else-if statements
+Don’t confuse the Not logical operator (!) with the Not Equals relational operator (!=). Although these operators are sometimes used in similar ways, the Not 
+operator is more general. I could have written the preceding example like this
+In most cases, you should use the Conditional Or operator (||) instead of the 
+regular Or operator (|), like this:
+Using the Conditional Operator
