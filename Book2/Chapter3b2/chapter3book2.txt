@@ -1,0 +1,14 @@
+Unary operators: Operators that work on just one operand. Examples of unary 
+operators are negation (-x, which returns the negative of x) and increment (x++, 
+which adds 1 to x)
+• Binary operators Ternary operators:
+You can use the increment and decrement operators only on variables — not on 
+numeric literals or other expressions. 
+The increment and decrement operators are unusual because they are unary 
+operators that can be placed either before (prefix) or after (postfix)the variable they 
+apply to. Whether you place the operator before or after the variable can have 
+a major effect on how an expression is evaluated. If you place an increment or 
+decrement operator before its variable, the operator is applied before the rest of 
+the expression is evaluated.
+A compound assignment operator is an operator that performs a calculation and an 
+assignment at the same time.
