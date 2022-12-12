@@ -1,0 +1,19 @@
+public: 
+A keyword of the Java language that indicates that the element 
+that follows should be made available to other Java elements. 
+
+class: Another Java keyword that indicates that the element being 
+defined here is a class. All Java programs are made up of one or more
+classes. A class definition contains code that defines the behavior of the
+objects created and used by the program
+
+public: The public keyword is used again, this time to indicate that a 
+method being declared here should have public access
+
+The state of an object consists of any data that the object might be keeping track of, and the behavior consists of actions that the object can perform. The 
+behaviors are represented in the class by one or more methods that can be called 
+on to perform actions.
+
+The difference between a class and an object is similar to the difference between a 
+blueprint and a house. A blueprint is a plan for a house. A house is an implementation of a blueprint. One set of blueprints can be used to build many houses. Likewise, a class is a plan for an object, and an object is — in Java terms — an instance
+of a class. You can use a single class to create more than one object.

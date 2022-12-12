@@ -1,0 +1,9 @@
+Understanding Objects
+Objects have state
+Understanding the Life Cycle of an Object
+Inheritance
+Designing a Program with Objects
+Diagramming Classes with UML
+You can draw class diagrams in many ways. To add some consistency to their 
+diagrams, most programmers use a standard called UML, which stands for Unified 
+Modeling Language.
