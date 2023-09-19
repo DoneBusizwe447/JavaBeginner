@@ -1,4 +1,6 @@
-import java.io.File; 
+package Book3chp1.chapter3b5;
+
+import java.io.File;
 import java.util.Scanner;
 public class DirList
 {
@@ -24,14 +26,11 @@ public class DirList
  }
  } while(askAgain()); 
  }
- private static void listDirectories( 
- File dir, String indent)
+ private static void listDirectories(File dir, String indent)
  {
  File[] dirs = dir.listFiles(); 
- for (File f : dirs) 
- {
- if (f.isDirectory()) 
- {
+ for (File f : dirs) {
+ if (f.isDirectory()) {
  System.out.println(
  indent + f.getName()); 
  listDirectories(f, indent + " "); 

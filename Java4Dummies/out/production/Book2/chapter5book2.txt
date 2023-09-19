@@ -1,0 +1,10 @@
+Using Your Basic while Loop
+The while statement
+The basic format of the while statement is this:
+while (expression)
+statement
+Using the continue Statement
+Running do-while Loops
+Validating Input from the User
+Using the Famous for Loop
+Nesting Your Loops

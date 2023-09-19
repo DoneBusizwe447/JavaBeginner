@@ -1,0 +1,6 @@
+Java also allows you to initialize a variable on the same statement that declares the 
+variable. To do that, you use an initializer, which has the following general form:
+type name = expression;
+In effect, the initializer lets you combine a declaration and an assignment statement into one concise statement. Here are some example
+Java’s Primitive Types
+Declaring and creating a Scanner object
